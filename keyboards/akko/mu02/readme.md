@@ -6,11 +6,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make monsgeek/mu02/uk/mu02:default
+    make akko/mu02/uk/mu02:default
         
 Flashing example for this keyboard:
 
-    make monsgeek/mu02/uk/mu02:default
+    make akko/mu02/uk/mu02:default
 
 To reset the board into bootloader mode, do one of the following:
 
